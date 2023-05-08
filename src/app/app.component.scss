@@ -1,0 +1,17 @@
+section{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+#chart-gauge, #chart-pie{
+  width: 600px;
+  height: 300px;
+  margin: 0 auto;
+
+
+}
+#chart-column, #chart-line {
+  display: block;
+  height: 300px;
+  width: 400px;
+  margin: 0 auto;
+}
